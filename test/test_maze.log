@@ -1,0 +1,20 @@
+Amazing Test Log
+Started at 21:50:34 on 05/28/2014.
+
+make
+AMStartup 1 4 pierce.cs.dartmouth.edu whoops
+Usage: AMStartup [nAvatars] [Difficulty] [Hostname]
+
+AMStartup 1 4 pierce.cs.dartmouth.edu
+[nAvatars] must be an integer between 2 and 10 inclusive
+
+AMStartup 1 10 pierce.cs.dartmouth.edu
+[nAvatars] must be an integer between 2 and 10 inclusive-e\n\nAMStartup 1 10 ierce.cs.dartmouth.edu
+[nAvatars] must be an integer between 2 and 10 inclusive
+
+AMStartup 2 0 pierce.cs.dartmouth.edu
+
+make clean
+
+Finished at 21:50:35 on 05/28/2014.
+

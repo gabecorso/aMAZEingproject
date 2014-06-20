@@ -1,0 +1,19 @@
+joannezhao, 50694, Wed May 28 20:48:53 EDT 2014
+
+
+
+Sent AM_AVATAR_READY signal with AvatarID: 0Sent AM_AVATAR_READY signal with AvatarID: 1
+[Avatar 0] Turn 0: (4, 9) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 1: (3, 7) AM_AVATAR_MOVE Direction: SOUTH
+[Avatar 0] Turn 2: (4, 9) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 3: (3, 8) AM_AVATAR_MOVE Direction: WEST
+[Avatar 0] Turn 4: (4, 9) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 5: (3, 8) AM_AVATAR_MOVE Direction: SOUTH
+[Avatar 0] Turn 6: (4, 9) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 7: (3, 9) AM_AVATAR_MOVE Direction: WEST
+[Avatar 0] Turn 8: (4, 9) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 9: (3, 9) AM_AVATAR_MOVE Direction: SOUTH
+[Avatar 0] Turn 10: (4, 9) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 11: (3, 9) AM_AVATAR_MOVE Direction: EAST
+Maze solved in 12 turns
+Hash: 2462328368l

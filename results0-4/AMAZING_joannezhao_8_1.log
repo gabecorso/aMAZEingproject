@@ -1,0 +1,199 @@
+joannezhao, 36345, Wed May 28 20:48:45 EDT 2014
+
+
+Sent AM_AVATAR_READY signal with AvatarID: 3
+Sent AM_AVATAR_READY signal with AvatarID: 4
+
+Sent AM_AVATAR_READY signal with AvatarID: 0
+Sent AM_AVATAR_READY signal with AvatarID: 1Sent AM_AVATAR_READY signal with AvatarID: 5
+Sent AM_AVATAR_READY signal with AvatarID: 7
+
+
+[Avatar 0] Turn 0: (2, 0) AM_AVATAR_MOVE Direction: NULLSent AM_AVATAR_READY signal with AvatarID: 6Sent AM_AVATAR_READY signal with AvatarID: 2
+[Avatar 1] Turn 1: (2, 5) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 3] Turn 3: (3, 0) AM_AVATAR_MOVE Direction: WEST
+[Avatar 7] Turn 7: (1, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 6] Turn 6: (4, 3) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 4] Turn 4: (2, 6) AM_AVATAR_MOVE Direction: NORTH
+
+[Avatar 5] Turn 5: (2, 8) AM_AVATAR_MOVE Direction: NORTH[Avatar 2] Turn 2: (4, 4) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 0] Turn 8: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 9: (2, 5) AM_AVATAR_MOVE Direction: EAST
+[Avatar 3] Turn 11: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 5] Turn 13: (2, 7) AM_AVATAR_MOVE Direction: NORTH
+
+
+[Avatar 7] Turn 15: (1, 1) AM_AVATAR_MOVE Direction: WEST
+[Avatar 2] Turn 10: (4, 4) AM_AVATAR_MOVE Direction: WEST[Avatar 4] Turn 12: (2, 5) AM_AVATAR_MOVE Direction: EAST[Avatar 6] Turn 14: (4, 2) AM_AVATAR_MOVE Direction: WEST
+[Avatar 0] Turn 16: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 17: (2, 5) AM_AVATAR_MOVE Direction: WEST
+[Avatar 2] Turn 18: (4, 4) AM_AVATAR_MOVE Direction: EAST
+[Avatar 4] Turn 20: (2, 5) AM_AVATAR_MOVE Direction: WEST
+[Avatar 3] Turn 19: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 6] Turn 22: (3, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 5] Turn 21: (2, 6) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 23: (1, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 0] Turn 24: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 25: (1, 5) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 2] Turn 26: (5, 4) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 5] Turn 29: (2, 5) AM_AVATAR_MOVE Direction: WEST
+
+[Avatar 3] Turn 27: (2, 0) AM_AVATAR_MOVE Direction: NULL[Avatar 4] Turn 28: (1, 5) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 6] Turn 30: (3, 2) AM_AVATAR_MOVE Direction: WEST
+[Avatar 7] Turn 31: (1, 0) AM_AVATAR_MOVE Direction: WEST
+[Avatar 0] Turn 32: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 33: (1, 5) AM_AVATAR_MOVE Direction: WEST
+[Avatar 2] Turn 34: (5, 3) AM_AVATAR_MOVE Direction: WEST
+[Avatar 5] Turn 37: (1, 5) AM_AVATAR_MOVE Direction: WEST
+
+[Avatar 3] Turn 35: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 6] Turn 38: (3, 2) AM_AVATAR_MOVE Direction: SOUTH[Avatar 4] Turn 36: (1, 5) AM_AVATAR_MOVE Direction: WEST
+[Avatar 7] Turn 39: (1, 0) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 0] Turn 40: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 41: (1, 5) AM_AVATAR_MOVE Direction: SOUTH
+[Avatar 2] Turn 42: (5, 3) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 3] Turn 43: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+[Avatar 6] Turn 46: (3, 2) AM_AVATAR_MOVE Direction: EAST
+[Avatar 5] Turn 45: (1, 5) AM_AVATAR_MOVE Direction: SOUTH[Avatar 4] Turn 44: (1, 5) AM_AVATAR_MOVE Direction: SOUTH
+[Avatar 7] Turn 47: (1, 0) AM_AVATAR_MOVE Direction: EAST
+[Avatar 0] Turn 48: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 49: (1, 6) AM_AVATAR_MOVE Direction: EAST
+[Avatar 2] Turn 50: (5, 2) AM_AVATAR_MOVE Direction: WEST
+[Avatar 5] Turn 53: (1, 6) AM_AVATAR_MOVE Direction: WEST
+
+[Avatar 4] Turn 52: (1, 6) AM_AVATAR_MOVE Direction: WEST[Avatar 3] Turn 51: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 6] Turn 54: (4, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 55: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 56: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 57: (1, 6) AM_AVATAR_MOVE Direction: WEST
+[Avatar 2] Turn 58: (5, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 4] Turn 60: (0, 6) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 3] Turn 59: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+[Avatar 6] Turn 62: (4, 2) AM_AVATAR_MOVE Direction: SOUTH[Avatar 5] Turn 61: (0, 6) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 63: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 64: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 65: (0, 6) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 2] Turn 66: (5, 1) AM_AVATAR_MOVE Direction: WEST
+
+[Avatar 3] Turn 67: (2, 0) AM_AVATAR_MOVE Direction: NULL[Avatar 4] Turn 68: (0, 5) AM_AVATAR_MOVE Direction: NORTH
+
+[Avatar 5] Turn 69: (0, 5) AM_AVATAR_MOVE Direction: NORTH[Avatar 6] Turn 70: (4, 3) AM_AVATAR_MOVE Direction: WEST
+[Avatar 7] Turn 71: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 72: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 73: (0, 5) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 2] Turn 74: (5, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 6] Turn 78: (3, 3) AM_AVATAR_MOVE Direction: WEST
+
+[Avatar 4] Turn 76: (0, 4) AM_AVATAR_MOVE Direction: NORTH[Avatar 3] Turn 75: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 5] Turn 77: (0, 4) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 79: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 80: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 81: (0, 4) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 2] Turn 82: (5, 0) AM_AVATAR_MOVE Direction: WEST
+[Avatar 4] Turn 84: (0, 3) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 3] Turn 83: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+[Avatar 5] Turn 85: (0, 3) AM_AVATAR_MOVE Direction: NORTH[Avatar 6] Turn 86: (2, 3) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 87: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 88: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 89: (0, 3) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 2] Turn 90: (4, 0) AM_AVATAR_MOVE Direction: WEST
+[Avatar 4] Turn 92: (0, 2) AM_AVATAR_MOVE Direction: WEST
+[Avatar 3] Turn 91: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 5] Turn 93: (0, 2) AM_AVATAR_MOVE Direction: WEST
+[Avatar 6] Turn 94: (2, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 95: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 96: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 97: (0, 2) AM_AVATAR_MOVE Direction: WEST
+[Avatar 2] Turn 98: (4, 0) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 3] Turn 99: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 5] Turn 101: (0, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 6] Turn 102: (2, 2) AM_AVATAR_MOVE Direction: WEST
+[Avatar 4] Turn 100: (0, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 103: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 104: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 105: (0, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 2] Turn 106: (4, 0) AM_AVATAR_MOVE Direction: SOUTH
+[Avatar 4] Turn 108: (0, 1) AM_AVATAR_MOVE Direction: WEST
+[Avatar 3] Turn 107: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+[Avatar 6] Turn 110: (1, 2) AM_AVATAR_MOVE Direction: NORTH[Avatar 5] Turn 109: (0, 1) AM_AVATAR_MOVE Direction: WEST
+[Avatar 7] Turn 111: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 112: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 113: (0, 1) AM_AVATAR_MOVE Direction: WEST
+[Avatar 2] Turn 114: (4, 1) AM_AVATAR_MOVE Direction: WEST
+[Avatar 3] Turn 115: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 5] Turn 117: (0, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 4] Turn 116: (0, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 6] Turn 118: (1, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 119: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 120: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 121: (0, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 2] Turn 122: (3, 1) AM_AVATAR_MOVE Direction: WEST
+[Avatar 3] Turn 123: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 4] Turn 124: (0, 0) AM_AVATAR_MOVE Direction: WEST
+
+[Avatar 6] Turn 126: (1, 0) AM_AVATAR_MOVE Direction: EAST[Avatar 5] Turn 125: (0, 0) AM_AVATAR_MOVE Direction: WEST
+[Avatar 7] Turn 127: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 128: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 129: (0, 0) AM_AVATAR_MOVE Direction: WEST
+[Avatar 2] Turn 130: (2, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 3] Turn 131: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 4] Turn 132: (0, 0) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 5] Turn 133: (0, 0) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 6] Turn 134: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 7] Turn 135: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 136: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 137: (0, 0) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 2] Turn 138: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 4] Turn 140: (0, 0) AM_AVATAR_MOVE Direction: SOUTH
+[Avatar 3] Turn 139: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 5] Turn 141: (0, 0) AM_AVATAR_MOVE Direction: SOUTH
+[Avatar 6] Turn 142: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 7] Turn 143: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 145: (0, 0) AM_AVATAR_MOVE Direction: SOUTH
+
+[Avatar 2] Turn 146: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 3] Turn 147: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 4] Turn 148: (0, 1) AM_AVATAR_MOVE Direction: SOUTH[Avatar 0] Turn 144: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+[Avatar 5] Turn 149: (0, 1) AM_AVATAR_MOVE Direction: SOUTH[Avatar 6] Turn 150: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 7] Turn 151: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 2] Turn 154: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+
+[Avatar 1] Turn 153: (0, 1) AM_AVATAR_MOVE Direction: SOUTH[Avatar 0] Turn 152: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 3] Turn 155: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+[Avatar 6] Turn 158: (2, 0) AM_AVATAR_MOVE Direction: NULL[Avatar 5] Turn 157: (0, 2) AM_AVATAR_MOVE Direction: EAST[Avatar 4] Turn 156: (0, 2) AM_AVATAR_MOVE Direction: EAST
+[Avatar 7] Turn 159: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 160: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 3] Turn 163: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+[Avatar 1] Turn 161: (0, 2) AM_AVATAR_MOVE Direction: EAST
+[Avatar 5] Turn 165: (1, 2) AM_AVATAR_MOVE Direction: NORTH[Avatar 2] Turn 162: (2, 0) AM_AVATAR_MOVE Direction: NULL
+
+[Avatar 6] Turn 166: (2, 0) AM_AVATAR_MOVE Direction: NULL[Avatar 4] Turn 164: (1, 2) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 167: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 168: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 4] Turn 172: (1, 1) AM_AVATAR_MOVE Direction: NORTH
+
+
+[Avatar 1] Turn 169: (1, 2) AM_AVATAR_MOVE Direction: NORTH[Avatar 3] Turn 171: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 2] Turn 170: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 6] Turn 174: (2, 0) AM_AVATAR_MOVE Direction: NULL[Avatar 5] Turn 173: (1, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 7] Turn 175: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 176: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 4] Turn 180: (1, 0) AM_AVATAR_MOVE Direction: EAST
+
+[Avatar 2] Turn 178: (2, 0) AM_AVATAR_MOVE Direction: NULL[Avatar 1] Turn 177: (1, 1) AM_AVATAR_MOVE Direction: NORTH
+[Avatar 3] Turn 179: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 6] Turn 182: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 5] Turn 181: (1, 0) AM_AVATAR_MOVE Direction: EAST
+[Avatar 7] Turn 183: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 0] Turn 184: (2, 0) AM_AVATAR_MOVE Direction: NULL
+[Avatar 1] Turn 185: (1, 0) AM_AVATAR_MOVE Direction: EAST
+Maze solved in 186 turns
+Hash: 744903647l

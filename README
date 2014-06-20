@@ -1,0 +1,47 @@
+CS 50 - Spring 2014
+
+            ┌─┐╔╦╗╔═╗╔═╗┬┌┐┌┌─┐  ┌─┐┬─┐┌─┐ ┬┌─┐┌─┐┌┬┐
+	    ├─┤║║║╠═╣╔═╝│││││ ┬  ├─┘├┬┘│ │ │├┤ │   │ 
+	    ┴ ┴╩ ╩╩ ╩╚═╝┴┘└┘└─┘  ┴  ┴└─└─┘└┘└─┘└─┘ ┴ 
+
+	      ┌┬┐┌─┐┌─┐┌┬┐  ╔╗ ╔═╗╦═╗╔╗ ╔═╗╦═╗╔═╗
+	       │ ├┤ ├─┤│││  ╠╩╗╠═╣╠╦╝╠╩╗║╣ ╠╦╝╠═╣
+	       ┴ └─┘┴ ┴┴ ┴  ╚═╝╩ ╩╩╚═╚═╝╚═╝╩╚═╩ ╩
+
+************************************************************
+Members
+
+Joanne Zhao '16
+Tyler S. Crowe '16
+Gabe Corso '17
+
+How to run:
+To compile in the shell, enter: 
+make
+To run, enter:
+./AMStartup [Number_Avatars] [Difficulty] [Server]
+
+======TESTING======
+TEST.sh is a test script to check the arguments and the basic functionality.
+To run, enter TEST.sh into the terminal. A test_maze.log file will be generated
+with the results of the run.
+
+To test the code, the printShmaze function located in the diectory was run and
+compared with the log.out file in pierce.cs.dartmouth.edu:/var/tmp/####
+The walls were checked to make sure that no walls were discoverd that didn't exist
+
+To ensure that getNextMove worked in every possible case, a -100 was returned which
+would trigger the avatar program to quit, printing the information where the avatar
+couldn't determine a next move. The png files located in pierce.cs.dartmouth.edu/
+var/tmp/#### were examined at that turn to see why the avatar got stuck.
+
+======RESULTS======
+
+The program was run on levels 0-8 with 2-10 avatars. All runs were succesful. The
+log files can be viewed in 2 folders - results0-4 which include the results on levels
+0 through 4, and results5-9 which includes the results on levels 5-9. Level 9 with 2 
+avatars solved, but nothing beyond Level 9, 2 Avatars would complete. The max move limit
+was reached and the Maze would fail. The failed maze logs are included in the failed/
+directory.
+
+See Barbera_AMDesign_Spec.pdf for more information
